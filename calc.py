@@ -6,6 +6,7 @@ class Calculator:
 		return (a - b)
 
 	def divide(self, a, b):
+		print "Changing to checkin this to another git branch"
 		return (a / b)
 	
 	def mul(self, a, b):
